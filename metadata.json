@@ -1,0 +1,6 @@
+{
+  "name": "ToxiScan - Ingredient & Carcinogen Scanner",
+  "description": "Scan food product labels via camera or upload to detect harmful preservatives linked to mammalian cancer and bio-engineered (BE) food ingredients with live internet grounding.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
